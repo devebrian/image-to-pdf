@@ -9,7 +9,7 @@ It supports both single-file input and folder input and can be run entirely from
 - 🧩 Combines all images into one PDF output
 - ⚙️ Simple CLI interface using argparse
 
-## 🧠 Requirements
+## 🧰 Requirements
 Make sure you have Python 3 installed, along with the Pillow library:
 ```
 pip install pillow
