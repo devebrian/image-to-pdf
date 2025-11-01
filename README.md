@@ -18,7 +18,7 @@ pip install pillow
 ## 🚀 Usage
 Run the script from the terminal using:
 ```
-python app.py -i <input> -o <output.pdf> [-s <scale>] [-c <compression>]
+python3 app.py -i <input> -o <output.pdf> [-s <scale>] [-c <compression>]
 ```
 
 ### Arguments
